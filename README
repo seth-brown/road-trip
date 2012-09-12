@@ -1,0 +1,6 @@
+Road Trip Algorithm
+================
+
+This code tries to find a shortest-path solution through a precise number of zipcode destinations. More details can be found in [this blog post][1]. 
+
+[1]:http://www.drbunsen.org/road-trip-algorithm.html
